@@ -82,7 +82,7 @@ export const content = {
       ]
     },
     maternal: {
-      title: "Maternal Details",
+      title: "Maternal Details - (Junagadh)",
       grandfather: "JadavBhai Lakhabhai Gondaliy",
       grandmother: "Kantaben Jadavbhai Gondaliy",
       uncle1: "Khodabhai(Tinubhai) Gondaliya",
@@ -114,7 +114,7 @@ export const content = {
       family: "પરિવાર",
       nature: "સ્વભાવ",
       hobbies: "શોખ",
-      maternal: "મોસાળ",
+      maternal: "મોસાળ - (જુનાગઢ)",
       address: "સરનામું"
     },
     about: {
@@ -167,8 +167,8 @@ export const content = {
       ]
     },
     maternal: {
-      title: "મોસાળ",
-      grandfather: "જાદવભાઈ લાખાભાઈ ગોંડલિયા",
+      title: "મોસાળ - (જુનાગઢ)",
+      grandfather: "સ્વ. જાદવભાઈ લાખાભાઈ ગોંડલિયા",
       grandmother: "કાંતાબેન જાદવભાઈ ગોંડલીય",
       uncle1: "ખોડાભાઈ(ટિનુભાઈ) ગોંડલીયા",
       aunt: "જયશ્રીબેન ખોડાભાઈ ગોંડલીયા",
